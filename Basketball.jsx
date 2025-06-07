@@ -37,10 +37,10 @@ const players = [
             From NBA games to local pickup courts, basketball inspires millions of players and fans around the world.
           </p>
           <img
-  src="https://t3.ftcdn.net/jpg/12/49/43/10/360_F_1249431095_YnH64LCvkmag2xFLnlxHvjxkxwOIdmPT.jpg"
-  alt="Basketball"
-  className="mx-auto rounded-lg shadow-lg w-full max-w-md mb-12"
-/>
+              src="https://t3.ftcdn.net/jpg/12/49/43/10/360_F_1249431095_YnH64LCvkmag2xFLnlxHvjxkxwOIdmPT.jpg"
+              alt="Basketball"
+              className="mx-auto rounded-lg shadow-lg w-full max-w-md mb-12"
+            />
   
           <h3 className="text-3xl font-semibold text-white mb-6">Top Players</h3>
           <div className="grid gap-6 md:grid-cols-3">
